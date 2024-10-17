@@ -9,22 +9,21 @@ import com.liberia.pe.repository.ProductoRepository;
 import com.liberia.pe.service.ProductoService;
 
 import lombok.RequiredArgsConstructor;
-@Service
-@RequiredArgsConstructor
-public class ProductoServiceImpl implements ProductoService{
+//@Service
+//@RequiredArgsConstructor
+//public class ProductoServiceImpl implements ProductoService{
 
-	private final ProductoRepository productoRepository;
+	//private final ProductoRepository productoRepository;
 	
-	@Override
-	public List<ProductoEntity> bucarTodosLibros() {
+	//@Override
+	//public List<ProductoEntity> bucarTodosLibros() {
 		// TODO Auto-generated method stub
-		return productoRepository.findAll();
-	}
-
-	@Override
-	public ProductoEntity buscarProductoPorId(Integer id) {
+	//	return productoRepository.findAll();
+	//}
+//@Override
+	//public ProductoEntity buscarProductoPorId(Integer id) {
 		// TODO Auto-generated method stub
-		return productoRepository.findById(id).get();
-	}
+		//return productoRepository.findById(id).get();
+	//}
 
-}
+//}

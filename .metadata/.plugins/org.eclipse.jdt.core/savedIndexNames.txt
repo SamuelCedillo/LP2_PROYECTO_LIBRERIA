@@ -5,6 +5,7 @@ INDEX VERSION 1.134+C:\Users\Samuel Cedillo\LP2_PROYECTO_LIBRERIA\.metadata\.plu
 869126943.index
 3926508268.index
 579853430.index
+1397482604.index
 1768731983.index
 35893029.index
 1233195051.index
